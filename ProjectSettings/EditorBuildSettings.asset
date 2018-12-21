@@ -11,9 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MainGame/Scenes/MainMenu.unity
     guid: 7293cf07341d18044a6fec49e31da08d
-  - enabled: 1
-    path: Assets/MainGame/Scenes/MainLevel.unity
-    guid: 188fd4c44d17f174fb5847e4f762be6b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/MainGame/Scenes/CTM.unity
     guid: e3f07016a7d96e841aad591383bcf593
@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MainGame/Scenes/LVL1.unity
     guid: 3ffebf071c165436eb5b7fd261dc1764
+  - enabled: 1
+    path: Assets/MainGame/Scenes/LVL2.unity
+    guid: b53134ab31021a343b19a8eb51ee39f8
   m_configObjects: {}
